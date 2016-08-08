@@ -1,0 +1,3 @@
+CHANGED,D:\AndroidStudioProjects\PhotoCapture\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\org\turntotech\photocapture\MainActivity$override.class
+CHANGED,D:\AndroidStudioProjects\PhotoCapture\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class
+CHANGED,D:\AndroidStudioProjects\PhotoCapture\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\org\turntotech\photocapture\MainActivity$1$override.class
